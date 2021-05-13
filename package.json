@@ -1,6 +1,6 @@
 {
   "name": "npm-gha-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A demo package showing how one could use Github Actions to test and publish it to NPM.",
   "main": "calculator.js",
   "repository": "git@github.com:oscaralmqvist/npm-gha-demo.git",
